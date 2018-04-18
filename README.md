@@ -18,3 +18,4 @@ This repository contains all of the code artifacts from the course, specifically
 
 There are 14 lessons in the course. Each lesson has its own folder under `content/lessons`. Inside each lesson folder you will find folders for `Watch Me Code`, `End-To-End Example`, `In-Class Coding Lab` and and `Now You Code` homework. In the event a folder is missing it implies that lesson does not contain that kind of activity.
 
+# ist256project
